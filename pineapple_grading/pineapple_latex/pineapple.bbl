@@ -1,0 +1,140 @@
+\begin{thebibliography}{10}
+
+\bibitem{Manickavasagan:2013}
+Manickavasagan A, Al-Shekaili HN, Thomas G, Rahman MS, Guizani N, and Jayas DS.
+\newblock Edge detection features to evaluate hardness of dates using
+  monochrome images.
+\newblock {\em Journal of Food Bioprocess Technol}, 7:2251–2258, October
+  2013.
+
+\bibitem{Mizushima:2013}
+Mizushima A and Lu~R.
+\newblock An image segmentation method for apple sorting and grading using
+  support vector machine and otsu’s method.
+\newblock {\em Computers and Electronics in Agriculture}, 94:29--37, June 2013.
+
+\bibitem{Payne:2014}
+Payne A, Walsh K, Subedi P, and Jarvis D.
+\newblock Estimating mango crop yield using image analysis using fruit at
+  ‘stone hardening’ stage and night time imaging.
+\newblock {\em Computers and Electronics in Agriculture}, 100:160--167, January
+  2014.
+
+\bibitem{Font:2014}
+Font D, Pallejà T, Tresanchez M, Teixidó M, Martinez D, Moreno J, and
+  Palacín J.
+\newblock Counting red grapes in vineyards by detecting specular spherical
+  reflection peaks in rgb images obtained at night with artificial
+  illumination.
+\newblock {\em Computers and Electronics in Agriculture}, 108:105--111, October
+  2014.
+
+\bibitem{anshor:2013}
+Anshor JI, Rosnah S, Wan ZWH, and Badrul HAB.
+\newblock Pineapple maturity recognition using rgb extraction.
+\newblock {\em Journal of Electrical, Computer, Energetic, Electronic and
+  Communication Engineering}, 7:597--600, 2013.
+
+\bibitem{Arribas:2011}
+Arribas JI, Sánchez-Ferrero GV, Ruiz-Ruiz G, and Gómez-Gil J.
+\newblock Leaf classification in sunflower crops by computer vision and neural
+  networks.
+\newblock {\em Computers and Electronics in Agriculture}, 78:9--18, August
+  2011.
+
+\bibitem{Persson:2008}
+Persson M and Åstrand B.
+\newblock Classification of crops and weeds extracted by active shape models.
+\newblock {\em Biosystems Engnineering}, 100:484--497, August 2008.
+
+\bibitem{pineapple-export-kemendag}
+ITPC Milan.
+\newblock Market brief peluang produk nanas kalengan hs 200820 di italia.
+\newblock 2015.
+
+\bibitem{pineapple-detection-moonrita}
+Jednipat Moonrita, Supawadee Chaivivatrakul, Matthew N, and Dailey.
+\newblock Fruit detection, tracking, and 3d recosntruction for crop mapping and
+  yield estimation.
+\newblock In {\em Proceedings of 11th Int. Conf Control Automatic Robotics and
+  Vision}, pages 1181--1185, Singapore, December 2010. IEEE.
+
+\bibitem{Nixon:2013}
+Nixon MS and Aguado AS.
+\newblock {\em Feature Extraction and Image Processing}.
+\newblock Academic Press, Cambridge, Massachusetts, 2013.
+
+\bibitem{BPS-website}
+Indonesian~Bureau of~statistic.
+\newblock Produksi tanaman buah-buahan, 2018.
+
+\bibitem{Boniecki:2015}
+Boniecki P, Koszela K, Piekarska-Boniecka H, Weres J, Zaborowicz M, Kujawa S,
+  Majewski A, and Raba B.
+\newblock Neural identification of selected apple pests.
+\newblock {\em Computers and Electronics in Agriculture}, 110:9--16, January
+  2015.
+
+\bibitem{Zapotoczny:2008}
+Zapotoczny P, Zielinska M, , and Nita Z.
+\newblock Application of image analysis for the varietal classification of
+  barley: Morphological features.
+\newblock {\em Journal of Cereal Science}, 48:104--110, July 2008.
+
+\bibitem{Zhu:2015}
+Zhu Q, He~C, Lu~R, Mendoza F, and Cen H.
+\newblock Ripeness evaluation of ‘sun bright’ tomato using optical
+  absorption and scattering properties.
+\newblock {\em Journal of Postharvest Biology and Technology}, 103:27--34, May
+  2015.
+
+\bibitem{Rivera:2014}
+Gómez-Sanchis~B Rivera~NV, Chanona-Pérez J, Carrasco JJ, Millán-Giraldo M,
+  Lorente D, Cubero S, and Blasco J.
+\newblock Early detection of mechanical damage in mango using nir hyperspectral
+  images and machine learning.
+\newblock {\em Biosystems Engnineering}, 122:92--98, May 2014.
+
+\bibitem{Cubero:2014}
+Cubero S, Aleixos N, Albert F, Torregrosa A, Ortiz C, Garcı́a-Navarrete O,
+  and Blasco J.
+\newblock Optimised computer vision system for automatic pre-grading of citrus
+  fruit in the field using a mobile platform.
+\newblock {\em Precision Agriculture}, 15:80--94, February 2014.
+
+\bibitem{Mohammad:2011}
+Mohammad S, Kamarul HG, Zan NC, Radzi SS, and Karim RS.
+\newblock Classification of fresh n36 pineapple crop using image processing
+  technique.
+\newblock {\em Journal of Advanced Materials Research}, 418-420:1739--1743,
+  June 2011.
+
+\bibitem{Phataveerat:2008}
+Phataveerat S, Terdwongworakul A, and Phaungsombut A.
+\newblock Multivariate data analysis for classification of pineapple maturity.
+\newblock {\em Journal of Journal of Food Engineering}, 89:112–118, 2008.
+
+\bibitem{Sengupta:2014}
+Sengupta S and Lee WS.
+\newblock Identification and determination of the number of immature green
+  citrus fruit in a canopy under different ambient light conditions.
+\newblock {\em Biosystems Engnineering}, 117:51--61, January 2014.
+
+\bibitem{Szeliski:2011}
+Richard Szeliski.
+\newblock {\em Computer Vision: Algorithms and Applications}.
+\newblock Springer-Verlag London, London, 2011.
+
+\bibitem{pineapple-grading-kaewapichai}
+Kaewapichai W, Kaewtrakulpong P, Prateepasen A, and Khongkraphan K.
+\newblock Fitting a pineapple model for automatic maturity grading.
+\newblock In {\em Proceedings of International Conference on Image Processing},
+  pages 257--260. IEEE, September 2007.
+
+\bibitem{Astrand:2002}
+Åstrand B and Baerveldt A.
+\newblock An agricultural mobile robot with vision-based perception for
+  mechanical weed control.
+\newblock {\em Autonomous Robots}, 13:21--35, July 2002.
+
+\end{thebibliography}
